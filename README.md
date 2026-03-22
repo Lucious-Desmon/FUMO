@@ -19,7 +19,8 @@
 ## Timeline
 
 - `[2026-03-19]` arXiv submission.
-- `[2026-03-21]` Code repository released.
+- `[2026-03-22]` Code repository released.
+- `[TODO]` Model weights released.
 
 ## Abstract
 
