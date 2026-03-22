@@ -38,7 +38,6 @@ checkpoint-*/
 *.npz
 *.h5
 *.lmdb
-*.png
 *.jpg
 *.jpeg
 *.webp
