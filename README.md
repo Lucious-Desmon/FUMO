@@ -10,7 +10,8 @@
 
 <sup>&#42;</sup>Equal contribution  <sup>&dagger;</sup>Corresponding author 
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-blue)](TODO) [![arXiv](https://img.shields.io/badge/arXiv-2603.19036-b31b1b)](https://arxiv.org/abs/2603.19036) [![Project Page](https://img.shields.io/badge/Project-Page-green)](TODO)
+[![Paper](https://img.shields.io/badge/Paper-PDF-blue)](TODO) [![arXiv](https://img.shields.io/badge/arXiv-2603.19036-b31b1b)](https://arxiv.org/abs/2603.19036) [![Project Page](https://img.shields.io/badge/Project-Page-green)](TODO) [![HF](https://img.shields.io/badge/HF-Model-yellow)](TODO)
+
 
 </div>
 
@@ -18,7 +19,7 @@
 
 ## Timeline
 
-- `[2026-03-19]` arXiv submission.
+- `[2026-03-19]` arXiv preprint released.
 - `[2026-03-22]` Code repository released.
 - `[TODO]` Model weights released.
 
